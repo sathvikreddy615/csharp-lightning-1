@@ -1,0 +1,11 @@
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.csprojAssemblyReference.cache
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.csproj.CoreCompileInputs.cache
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.AssemblyInfoInputs.cache
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.AssemblyInfo.cs
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/bin/Debug/netcoreapp2.1/lightning-1.deps.json
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/bin/Debug/netcoreapp2.1/lightning-1.runtimeconfig.json
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/bin/Debug/netcoreapp2.1/lightning-1.runtimeconfig.dev.json
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/bin/Debug/netcoreapp2.1/lightning-1.dll
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/bin/Debug/netcoreapp2.1/lightning-1.pdb
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.dll
+/Users/nss4/workspace/csharp/lightning-exercises/lightning-1/obj/Debug/netcoreapp2.1/lightning-1.pdb
